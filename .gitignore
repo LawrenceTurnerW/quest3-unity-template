@@ -12,6 +12,7 @@
 
 #OculusIntegrationを使用する場合の除外フォルダを追加
 /[Aa]ssets/Oculus/
+/[Aa]ssets/XR/
 
 #再配布が禁止されているものや規約が不明瞭なものはRedistributionProhibitedフォルダを作成しそこに配置する
 #元の配布元や販売元のURLを記述しておくのを忘れずに
